@@ -31,3 +31,8 @@ Worked as a data analyst that brought actionable insights to the organization in
 
 ### BS Information Systems: Database - Liberty University
 <b>September 2020 - May 2023</b>
+
+<br>
+<a href="www.linkedin.com/in/noah-frank-032b68230">
+  <img src="Assets/Linkedin Image.png" width="35">
+</a>
