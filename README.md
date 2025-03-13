@@ -23,7 +23,10 @@ Worked as a data analyst that brought actionable insights to the organization in
 ---
 ## Personal Projects
 
-* Credit Card Fraud Detection Using Neural Networks
+* [Credit Card Fraud Detection Using Neural Networks](https://github.com/noah-frank/noah-frank.github.io/blob/main/Notebooks/credit_card_fraud_detection.ipynb)
+ * Performed exploratory data analysis (EDA) on the dataset
+ * Oversampled data for equal data representation
+ * Achieved high accuracy, precision, and recall with neural networks
 * Loan Risk Analysis and Prediction
 * [Bank Fraud Detection](https://github.com/noah-frank/portfolio/blob/main/Notebooks/Bank_Fraud_Detection.ipynb)
 * Stock Backtesting Function
