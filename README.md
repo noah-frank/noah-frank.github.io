@@ -66,4 +66,7 @@ Worked as a data analyst that brought actionable insights to the organization in
 <br>
 <a href="https://www.linkedin.com/in/noah-frank-032b68230">
   <img src="Assets/Linkedin Image.png" width="35">
+</a> &nbsp;&nbsp;
+<a href="https://github.com/noah-frank">
+  <img src="Assets/GithubLogo.png" width="35">
 </a>
