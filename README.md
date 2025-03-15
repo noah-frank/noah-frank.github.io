@@ -24,11 +24,14 @@ Worked as a data analyst that brought actionable insights to the organization in
 ## Personal Projects
 
 * [Credit Card Fraud Detection Using Neural Networks](https://github.com/noah-frank/noah-frank.github.io/blob/main/Notebooks/credit_card_fraud_detection.ipynb)
- * Performed exploratory data analysis (EDA) on the dataset
- * Oversampled data for equal data representation
- * Achieved high accuracy, precision, and recall with neural networks
+  * Performed exploratory data analysis (EDA) on the dataset
+  * Oversampled data for equal data representation
+  * Achieved high accuracy, precision, and recall with neural networks
 * Loan Risk Analysis and Prediction
 * [Bank Fraud Detection](https://github.com/noah-frank/portfolio/blob/main/Notebooks/Bank_Fraud_Detection.ipynb)
+  * Analyzed the dataset using frequency plotting
+  * Created and utilized a transformation pipeline
+  * 
 * Stock Backtesting Function
 * [Optimizing Machine Learning Models](https://github.com/noah-frank/portfolio/blob/main/Notebooks/Optimizing_ML_Models.ipynb)
   * Utilized KNN, SVC, Naive-Bayes, Decision Tree, and Random Forest models from SK-Learn
@@ -54,11 +57,9 @@ Worked as a data analyst that brought actionable insights to the organization in
 ---
 ## Certificates 
 
-### IBM Data Science Certificate 
-July 19, 2024 • [Link](https://www.coursera.org/account/accomplishments/professional-cert/2SQYANZQMUW7)
-
-### Google Data Analytics Certificate
-March 8, 2024 • [Link](https://www.coursera.org/account/accomplishments/specialization/PUKHA6RTDHYS)
+| IBM Data Science Certificate |  Google Data Analytics Certificate |
+| ---------------------------- | ---------------------------------- |
+| <a href="https://www.coursera.org/account/accomplishments/professional-cert/2SQYANZQMUW7" target="_blank"><img src="Assets/IBM_DATA_SCIENCE_CERT.jpeg" width="500"></a> | <a href="https://www.coursera.org/account/accomplishments/specialization/PUKHA6RTDHYS7" target="_blank"><img src="Assets/GOOGLE_DATA_ANALYTICS_CERT.jpeg" width="500"></a> | 
 
 ---
 
