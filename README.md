@@ -59,7 +59,7 @@ Worked as a data analyst that brought actionable insights to the organization in
 
 | IBM Data Science Certificate |  Google Data Analytics Certificate |
 | ---------------------------- | ---------------------------------- |
-| <a href="https://www.coursera.org/account/accomplishments/professional-cert/2SQYANZQMUW7" target="_blank"><img src="Assets/IBM_DATA_SCIENCE_CERT.jpeg" width="500"></a> | <a href="https://www.coursera.org/account/accomplishments/specialization/PUKHA6RTDHYS7" target="_blank"><img src="Assets/GOOGLE_DATA_ANALYTICS_CERT.jpeg" width="500"></a> | 
+| <a href="https://www.coursera.org/account/accomplishments/professional-cert/2SQYANZQMUW7" target="_blank"><img src="Assets/IBM_DATA_SCIENCE_CERT.jpeg" width="500"></a> | <a href="https://www.coursera.org/account/accomplishments/specialization/PUKHA6RTDHYS" target="_blank"><img src="Assets/GOOGLE_DATA_ANALYTICS_CERT.jpeg" width="500"></a> | 
 
 ---
 
