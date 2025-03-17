@@ -7,15 +7,18 @@
 <b>May 2023 - Present</b>
 Worked as a data analyst that brought actionable insights to the organization in the forms of KPIs, scrap material reports, quality assurance, and tire tracking system. 
 
-| Project | Details |
-| ---- | ----------- |
-| <b>Key Performance Indexes (KPIs)</b> | <ul><li>Created, maintained, and scheduled KPIs to be sent out on a daily and monthly basis</li><li>Delivered insights for department managers and plant executives to take action in manufacturing processes</li></ul> |
-| <b>Scrap material reporting</b> | <ul><li>Created scrap reports to assist department leaders and the quality assurance team in pinpointing inefficiencies in production</li><li>Tracked area where scrap was overproduced to minimize wasted materials</li></ul> |
-| <b>Quality assurance reporting</b> | <ul><li>Created multiple reports to assist the quality assurance department in managing holds</li></ul> |
-| <b>Tire tracking database management</b> | <ul><li>Created and maintained a database of over 34 million scanner records</li><li>Aggregated data from over 15 database tables</li><li>Utilized SQL jobs to insert data only a regular basis</li></ul> |
-| <b>Item inventory program</b> | <ul><li>Created a program for documenting item storage</li><li>Used data generated from the program to create a demand forecast</li></ul> |
-
-
+| Project                        | Details |
+| ------------------------------ | ------- |
+| **Key Performance Indexes (KPIs)** | - Created, maintained, and scheduled KPIs to be sent out on a daily and monthly basis  
+- Delivered insights for department managers and plant executives to take action in manufacturing processes |
+| **Scrap material reporting**      | - Created scrap reports to assist department leaders and the quality assurance team in pinpointing inefficiencies in production  
+- Tracked area where scrap was overproduced to minimize wasted materials |
+| **Quality assurance reporting**  | - Created multiple reports to assist the quality assurance department in managing holds |
+| **Tire tracking database management** | - Created and maintained a database of over 34 million scanner records  
+- Aggregated data from over 15 database tables  
+- Utilized SQL jobs to insert data on a regular basis |
+| **Item inventory program**       | - Created a program for documenting item storage  
+- Used data generated from the program to create a demand forecast |
 
 ---
 ## Personal Projects
