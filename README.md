@@ -9,16 +9,11 @@ Worked as a data analyst that brought actionable insights to the organization in
 
 | Project                        | Details |
 | ------------------------------ | ------- |
-| **Key Performance Indexes (KPIs)** | - Created, maintained, and scheduled KPIs to be sent out on a daily and monthly basis  
-- Delivered insights for department managers and plant executives to take action in manufacturing processes |
-| **Scrap material reporting**      | - Created scrap reports to assist department leaders and the quality assurance team in pinpointing inefficiencies in production  
-- Tracked area where scrap was overproduced to minimize wasted materials |
-| **Quality assurance reporting**  | - Created multiple reports to assist the quality assurance department in managing holds |
-| **Tire tracking database management** | - Created and maintained a database of over 34 million scanner records  
-- Aggregated data from over 15 database tables  
-- Utilized SQL jobs to insert data on a regular basis |
-| **Item inventory program**       | - Created a program for documenting item storage  
-- Used data generated from the program to create a demand forecast |
+| **Key Performance Indexes (KPIs)** | • Created, maintained, and scheduled KPIs to be sent out on a daily and monthly basis<br>• Delivered insights for department managers and plant executives to take action in manufacturing processes |
+| **Scrap material reporting**      | • Created scrap reports to assist department leaders and the quality assurance team in pinpointing inefficiencies in production<br>• Tracked areas where scrap was overproduced to minimize wasted materials |
+| **Quality assurance reporting**  | • Created multiple reports to assist the quality assurance department in managing holds |
+| **Tire tracking database management** | • Created and maintained a database of over 34 million scanner records<br>• Aggregated data from over 15 database tables<br>Utilized SQL jobs to insert data on a regular basis |
+| **Item inventory program**       | • Created a program for documenting item storage<br>• Used data generated from the program to create a demand forecast |
 
 ---
 ## Personal Projects
