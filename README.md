@@ -1,5 +1,5 @@
 # Noah Frank
-<b>Data Analysis/Data Science</b>
+<b>Data Analyst/Data Scientist</b>
 
 ## Experience
 
@@ -18,19 +18,12 @@ Worked as a data analyst that brought actionable insights to the organization in
 ---
 ## Personal Projects
 
-* [Credit Card Fraud Detection Using Neural Networks](https://github.com/noah-frank/noah-frank.github.io/blob/main/Notebooks/credit_card_fraud_detection.ipynb)
-  * Performed exploratory data analysis (EDA) on the dataset
-  * Oversampled data for equal data representation
-  * Achieved high accuracy, precision, and recall with neural networks
-* Loan Risk Analysis and Prediction
-* [Bank Fraud Detection](https://github.com/noah-frank/portfolio/blob/main/Notebooks/Bank_Fraud_Detection.ipynb)
-  * Analyzed the dataset using frequency plotting
-  * Created and utilized a transformation pipeline
-  * 
-* Stock Backtesting Function
-* [Optimizing Machine Learning Models](https://github.com/noah-frank/portfolio/blob/main/Notebooks/Optimizing_ML_Models.ipynb)
-  * Utilized KNN, SVC, Naive-Bayes, Decision Tree, and Random Forest models from SK-Learn
-  * Imrpoved classification
+| Project                        | Details |
+| ------------------------------ | ------- |
+| [Credit Card Fraud Detection Using Neural Networks](https://github.com/noah-frank/noah-frank.github.io/blob/main/Notebooks/credit_card_fraud_detection.ipynb) | • Performed exploratory data analysis (EDA) on the dataset<br>• Oversampled data for equal data representation<br>• Achieved high accuracy, precision, and recall with neural networks |
+| [Bank Fraud Detection](https://github.com/noah-frank/portfolio/blob/main/Notebooks/Bank_Fraud_Detection.ipynb) | • Explored and preprocessed a large financial transactions dataset to identify patterns and correlations relevant to fraud detection.<br>• Engineered features and removed identifiers to improve model generalization and prevent data leakage.<br>• Developed machine learning models to classify transactions as fraudulent or legitimate based on numeric and categorical features.<br>• Applied data analysis techniques to understand transaction behavior and highlight risk factors for banking fraud. |
+| [Optimizing Machine Learning Models](https://github.com/noah-frank/portfolio/blob/main/Notebooks/Optimizing_ML_Models.ipynb) | • Preprocessed customer purchase behavior data by handling categorical features with one-hot encoding and standardizing column names.<br>• Built and evaluated multiple machine learning models (Logistic Regression, Random Forest, Gradient Boosting) to establish baseline predictive performance.<br>• Applied feature selection techniques to optimize models and assess the impact on classification accuracy.<br>• Managed end-to-end ML pipeline, from data cleaning to model comparison, using Scikit-learn. |
+| [Loan Risk Analysis and Prediction](https://github.com/noah-frank/noah-frank.github.io/blob/main/Notebooks/Loan_Approval_Risk.ipynb) | • Performed exploratory data analysis on a loan approval dataset, identifying key patterns across numeric, categorical, and binary features.<br>• Engineered and preprocessed features using techniques like scaling (StandardScaler, MinMaxScaler) and one-hot encoding for optimal model performance.<br>• Developed and trained a deep learning regression model using TensorFlow/Keras to predict borrower risk scores. <br>• Utilized data visualization (Seaborn, Matplotlib) to uncover correlations between financial metrics and loan approval risk.<br>• Downloaded and managed external datasets programmatically via KaggleHub API, showcasing data pipeline automation skills. |
 
 ---
 ## Education 
