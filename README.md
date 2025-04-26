@@ -4,7 +4,7 @@
 ## Experience
 
 ### Giti Tire - Data Analyst
-<b>May 2023 - Present</b>
+<b>May 2023 - Present</b><br>
 Worked as a data analyst that brought actionable insights to the organization in the forms of KPIs, scrap material reports, quality assurance, and tire tracking system. 
 
 | Project                        | Details |
